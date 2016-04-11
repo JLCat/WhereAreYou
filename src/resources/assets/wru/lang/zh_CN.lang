@@ -1,0 +1,18 @@
+< zh_CN.lang - 中文语言文件>
+
+msg.mod=[WRU] 
+msg.showplayericon_on=玩家图标 : 开启
+msg.showplayericon_off=玩家图标 : 关闭
+msg.showgameinfo_on=游戏信息 : 开启
+msg.showgameinfo_off=游戏信息 : 关闭
+msg.mycoords=我的坐标 : 
+
+info.time=时间 : 
+info.coords=坐标 : 
+info.height=高度 : 
+info.facing=面朝 : 
+
+key.categories.wru=Where Are You
+key.showplayer=显示/关闭 玩家图标
+key.showInfo=显示/关闭 游戏信息
+key.sendCoords=发送坐标

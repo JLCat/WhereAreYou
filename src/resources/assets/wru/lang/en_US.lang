@@ -1,0 +1,18 @@
+< en_US.lang - English localization File >
+
+msg.mod=[WRU] 
+msg.showplayericon_on=Player Icon : ON
+msg.showplayericon_off=Player Icon : OFF
+msg.showgameinfo_on=Game Info : ON
+msg.showgameinfo_off=Game Info : OFF
+msg.mycoords=My Coordinates : 
+
+info.time=Time : 
+info.coords=Coordinates : 
+info.height=Height : 
+info.facing=Facing : 
+
+key.categories.wru=Where Are You
+key.showplayer=On/Off Show Player Icon
+key.showInfo=On/Off Show Game Info
+key.sendCoords=Send Coordinates
